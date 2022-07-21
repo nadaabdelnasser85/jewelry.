@@ -1,0 +1,52 @@
+body{
+    font-family: latha;
+    background:url(jewelry....jpg) no-repeat;
+    object-fit: cover;
+    background-size: 1300px 300px;
+    background-color:  #f4e6d7 ;}
+
+.box{
+    width: 900px;
+    float: right;
+    border: 1px solid none;
+}
+.box ul li{
+    width: 120px;
+    float: left;
+    margin: 10px auto;
+    text-align: center;
+}
+.box ul li a{text-decoration: none;
+color: rgb(196, 194, 194);}
+
+.box ul li:hover{ background-color: rgba(216, 216, 194, 0.741);}
+.box ul li a:hover{ color: white;}
+
+.one{
+margin: 4.5em;
+margin-top: 20em;
+border: 1px solid #f4e6d7;
+float: left;
+width: 245px;
+}
+.one img{
+    width: 245px;
+    height: 200px;
+}
+.first{
+    padding: 5em;
+    text-align: center;
+    color: #402b17;
+
+}
+.two{
+    margin: 4.5em;
+    margin-left: 13em;
+    border: 1px solid #f4e6d7;
+    float: left;
+    width: 245px;
+}
+.two img{
+    width: 245px;
+    height: 200px;
+}

@@ -1,0 +1,31 @@
+.box{
+    width: 900px;
+    float: right;
+    border: 1px solid none;
+}
+.box ul li{
+    width: 120px;
+    float: left;
+    margin: 10px auto;
+    text-align: center;
+}
+.box ul li a{text-decoration: none;
+color: rgb(180, 177, 177);}
+
+.box ul li:hover{ background-color: rgba(216, 216, 194, 0.741);}
+.box ul li a:hover{ color: white;}
+
+.parent{text-align: center;
+    background-color:  #f4e6d7;}
+    .one img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod;} 
+    .two img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod;}
+    .three img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod; }
+    .four img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod; }
+    .five img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod;}
+    .six img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod;}
+    .seven img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod;}
+    .EIGHT img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod;}
+    .NINE img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod;}
+    .TEN img{width: 300px; height: 300px; border-style: solid; border-color: goldenrod;}
+
+    .parent h1, h2 {color: rgb(97, 71, 5);}
